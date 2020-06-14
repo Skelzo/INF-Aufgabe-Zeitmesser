@@ -1,0 +1,9 @@
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\bin\Debug\INF Aufgabe.exe.config
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\bin\Debug\INF Aufgabe.exe
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\bin\Debug\INF Aufgabe.pdb
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF Aufgabe.csprojAssemblyReference.cache
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF_Aufgabe.Form1.resources
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF_Aufgabe.Properties.Resources.resources
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF Aufgabe.csproj.GenerateResource.cache
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF Aufgabe.exe
+C:\Users\raisa\OneDrive\Desktop\2bINF\INF\HÜ Git\INF Aufgabe\INF Aufgabe\obj\Debug\INF Aufgabe.pdb
